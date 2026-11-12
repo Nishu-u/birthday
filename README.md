@@ -114,3 +114,4 @@ That's expected — the note is saved in that specific browser (`localStorage`),
 
 Free to use, modify, and share for personal purposes (like surprising someone you love!). If you improve on this, feel free to fork it and share it with others too 💕
 # birthday
+# birthday
